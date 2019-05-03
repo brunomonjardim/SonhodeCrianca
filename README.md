@@ -4,4 +4,4 @@ Trabalho de IHC
 
 Como visualizar a pagina através do arquivo HTML do GuitHub
 
-https://github.com/brunomonjardim/Sonhodecrianca
+https://brunomonjardim.github.io/Sonhodecrianca
